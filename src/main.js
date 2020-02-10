@@ -1,4 +1,3 @@
-import fs from 'fs'
+import Tag from './tag'
 
-// Enter Library Message
-console.log('[Loading Site Hungry]')
+export default Tag
